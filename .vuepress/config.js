@@ -12,8 +12,9 @@ module.exports = {
                 ]
             },
 
+
             {
-                title: 'Assessment',
+                title: 'Assessment Brief',
                 collapsable: true,
                 children: [
                     '/assessment/assessment_1.md'
