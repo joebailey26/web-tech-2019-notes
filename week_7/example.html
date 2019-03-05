@@ -1,0 +1,40 @@
+<html>
+ <head>
+
+     <title>JavaScript Page</title>
+
+     <!--
+        This script in included in the head so we need to call it
+     -->
+     <script type="text/javascript">
+         //This is a function
+         function showName(){
+            // create a variable called name and assign it the value of the name input box 
+            var nameValue =  document.getElementById("name").value;
+
+            /* we can now print the name. The . allows us to append to a string */
+            document.getElementById("demo").innerHTML =  "Hello " +  nameValue;
+        } //end function 
+    </script>
+ </head>
+ <body>
+
+
+    <p> <input type="text" placeholder="enter name" id="name">  </p>   
+
+     <!-- 
+        Notice the onClick attribute. This will call the function showName()
+     -->
+
+    <p> <button onClick="showName()">Click Me</button> </p>     
+
+    <!-- 
+
+      We will display our output below 
+
+     -->
+
+    <p id="demo"></p>
+
+ </body>
+</html>

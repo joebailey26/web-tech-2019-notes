@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acf0ea72-8f84-4b06-b9ea-1d67b795ac08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../web_design_for_industry/notes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web_design_for_industry/notes/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web_design_for_industry/notes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assessment_support/assessment_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/adaptive_site.a793179a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/berners.5404be8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/breakpoints.28987e45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/centralised.179edcba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/cern.1436792b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/changes.540973c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/css_example.c70cb11f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/css_selector.e05c79c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/device_on_a_browser.a53db4a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/distributed.e5706009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/drop_down_list.f1b40c2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/floated_lef_divs.9c9cd1c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/floated_left_right_divs.49f9cba0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/form.3db65d05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/git_work_flow.124d6045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/iphone.0b3e7b50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/laid_out_form.76ff5472.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/landing_page.781b6028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/mobile.7e713359.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/practical_website_preview.484aa136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/search.83621669.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/small_device.50bdb918.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/static_divs.44114e85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/task_form.8a6b06ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/unstyled_form.8b00b248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/version_control.743f3a5c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/img/workflow.d820ca19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/mock_tca.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_1/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_1/notes_practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_1/practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_2/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_2/notes_practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_2/practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_3/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_3/notes_practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_3/practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_4/notes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_4/notes_practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/week_4/practical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/public/mock_tca.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assessment_support/assessment_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mock_tca.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/bash_location.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/bash_output.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/bitkeeper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Local Workspace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Pull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Push.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Rectangle 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/Screenshot 2018-05-16 21.05.53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/assets.sketch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/berners.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/brackets.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/centralised.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/centralized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/cern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/changes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/creative-commons-license.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/creative-commons-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/distributed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/domain_name_server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/electron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/git_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/git_work_flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/html5_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/pixy-bay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/remote_workspace.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/version_control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/vscode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/block_2/workflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/branching-Recovered.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/branching.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/command_line_or_gui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/commit1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/commit2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/couldlogos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/editable_art_work/artwork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/editable_art_work/branching.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/folder_structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/foldercollection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_getting_remote_address.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_remote_v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_remote_v.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_setting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/git_work_flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/gitlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/histogram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/html5_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/artwork_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/artwork_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/bash_vs_terminal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/cloud-logos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/commits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/git-studentd-pack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/git_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/git_twitter_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/octo_cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/remote-host.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/images/terminal_bash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/joe_appleton_hack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/linus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/log_output_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/marc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/mrdoob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/multiple_commits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/progression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/repo_work_flow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/reset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/revert.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/revert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/site_sample.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/assets/terminal_output.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/notes_practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1/practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/editable_art_work/artwork.sketch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/HTML5FORM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/Landing Page@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/berners.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/cern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/content-water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/css_example.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/css_selector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/float_left_example.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/float_right_example.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/floated_lef_divs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/floated_left_right_divs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/html_vlaidator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/landing_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/landing_page_mock_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/main_picture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/no_float.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/practical_website_preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/static_divs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/task_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/task_image.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/task_image_new.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/images/task_image_new.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/assets/static/web_project_files.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/notes_practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2/practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/adaptive_site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/breakpoints.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/device_emulation_tools_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/device_on_a_browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/example.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/resonsivevsdesktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/small_device.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/assets/images/task_desktop_layout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/notes_practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_3/test_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/bad_form_screen_shot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/check_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/drop_down_list.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/form.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/laid_out_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/radio_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/task_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/assets/unstyled_form.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/notes_practical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_4/practical.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/academic-calendar-2017-18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/academic-calendar-2017-18.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/assesment_dataes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/assesment_dataes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/SWD400 - resit/SWD400_Assessment_2_Resit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/CDA401_Client_Side_Scripting_Assessment_1_.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/SWD400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/advanced_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/assesment.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/basic_form.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/extra_options.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/form_just_total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/home_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/mock_up.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/order_form_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/simple_total2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/client-side-scripting/CDA401ClientSideScriptingPrivateFolder/assesment/planning_legacy/task_break_down.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/compliance-talk/Joe Appleton Presentation Talk.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/compliance-talk/Joe Appleton Presentation Talk.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/individual-project/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/individual-project/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/notes/CDA400" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/internet-technology/notes/CDA400" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/main_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit1_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/resit2_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/Part 1 Professional Considerations.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment1_2015.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/SWD400_assignment_template.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/asignment1_second_attempt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/basic_rules.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/header_footer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/home_page_2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/2017 Version/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/adjusted_layouts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/adjusted_layouts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/form.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/forms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/forms.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/headings_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/menu_footers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets/new_assets/navigation_footers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets2/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/2017 Version/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/adjusted_layouts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/adjusted_layouts.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/form.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/forms.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/forms.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/headings_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/home_page.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/menu_footers.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assets_2017/navigation_footers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_third_attempt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/assignment_third_attempt.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/marking_rubik_ass_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/marking_rubik_ass_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/final_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/final_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assets_mock_tca/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/mock_tca/assignment_mock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/rubik2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/editable/~$D400_assignment_template.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/final_css_layout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/final_css_layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/information_sections.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/information_sections.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_jan_2017/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_JAN_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_RESIT_2017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/CADA400_TCA_RESIT_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/img/html.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/img/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/internet_tech_tca/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/main_tca_mar_2017 (resit)/assets/legal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/assignment_mock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_1_html/setup/it_tca_mock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/mock_tca/mock_tca.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/results_resits/results_resits.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/internet-technology/tca/tca-editable/results_resits/~$results_resits.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r1 [pr done]/swd500_AE1_2017_REF1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r2 [pr done]/swd500_AE1_2017_REF2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/ae1r2 [pr done]/swd500_AE1_2017_REF2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/marks.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae1/marks.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2 [pr done]/swd500_AE2_2017.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2 [pr done]/swd500_AE2_2017.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r1 [pr done]/swd500_AE2_2017_REF1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2017-2018/web-design-and-devlopment/swd500PrivateRepo/assessments/ae2/ae2r2 [pr done]/swd500_AE2_2017_REF2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../general_admin/payrise_letter/Joe Appleton Formal Pay Rise Request.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../general_admin/payrise_letter/joeappleton_personal_statement.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="536503294">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="firebaserc" value="1" />
+          <entry key="html" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="6" />
+          <entry key="json" value="1" />
+          <entry key="md" value="37" />
+          <entry key="png" value="1" />
+          <entry key="psd" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Markdown" value="35" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Scratch" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="firebaserc" value="13" />
+          <entry key="html" value="446" />
+          <entry key="js" value="556" />
+          <entry key="md" value="14769" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="472" />
+          <entry key="JavaScript" value="556" />
+          <entry key="Markdown" value="14722" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Scratch" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_4/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_4/notes.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="159">
+                <caret line="67" column="79" selection-start-line="67" selection-start-column="79" selection-end-line="67" selection-end-column="79" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_5/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="290">
+                <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_5/notes.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2592">
+                <caret line="72" selection-start-line="72" selection-end-line="72" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vuepress/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week_5/practical.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="189">
+                <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_4/notes_practical.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="159">
+                <caret line="95" selection-start-line="95" selection-end-line="95" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret line="315" selection-start-line="276" selection-end-line="315" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week_4/practical.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret line="16" selection-start-line="16" selection-end-line="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;legend&gt;</find>
+      <find>&lt;div class=&quot;content&quot;&gt;</find>
+      <find>&quot;firstName</find>
+      <find>OutS</find>
+      <find>select</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.firebaserc" />
+        <option value="$PROJECT_DIR$/week_1/README.md" />
+        <option value="$PROJECT_DIR$/week_2/README.md" />
+        <option value="$PROJECT_DIR$/week_2/assets/notes.md" />
+        <option value="$PROJECT_DIR$/week_2/pratical.md" />
+        <option value="$PROJECT_DIR$/week_2/notes.md" />
+        <option value="$PROJECT_DIR$/week_2/practical.md" />
+        <option value="$PROJECT_DIR$/week_1/notes.md" />
+        <option value="$PROJECT_DIR$/week_1/notes_practical.md" />
+        <option value="$PROJECT_DIR$/week_1/practical.md" />
+        <option value="$PROJECT_DIR$/week_3/README.md" />
+        <option value="$PROJECT_DIR$/week_2/notes_practical.md" />
+        <option value="$PROJECT_DIR$/week_3/notes.md" />
+        <option value="$PROJECT_DIR$/week_3/test.html" />
+        <option value="$PROJECT_DIR$/week_3/practical.md" />
+        <option value="$PROJECT_DIR$/week_4/notes.md" />
+        <option value="$PROJECT_DIR$/week_4/README.md" />
+        <option value="$PROJECT_DIR$/week_3/notes_practical.md" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" />
+        <option value="$PROJECT_DIR$/week_4/practical.md" />
+        <option value="$PROJECT_DIR$/week_3/test_form.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/week_4/notes_practical.md" />
+        <option value="$PROJECT_DIR$/week_5/README.md" />
+        <option value="$PROJECT_DIR$/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/week_5/notes.md" />
+        <option value="$PROJECT_DIR$/week_5/practical.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4" />
+    <option name="y" value="48" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name=".firebase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name=".vuepress" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name="week_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+              <item name="week_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="settings&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week_2/assets/images" />
+      <recent name="$PROJECT_DIR$/week_2" />
+      <recent name="$PROJECT_DIR$/week_2/assets/static" />
+      <recent name="$PROJECT_DIR$/week_2/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.vuepress/public" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/week_2/assets/images" />
+      <recent name="$PROJECT_DIR$/week_1/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acf0ea72-8f84-4b06-b9ea-1d67b795ac08" name="Default Changelist" comment="" />
+      <created>1548087154995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548087154995</updated>
+      <workItem from="1548087158660" duration="7077000" />
+      <workItem from="1548143707753" duration="69000" />
+      <workItem from="1548683810007" duration="8401000" />
+      <workItem from="1549289361033" duration="8727000" />
+      <workItem from="1549898209656" duration="12826000" />
+      <workItem from="1549960834328" duration="2924000" />
+      <workItem from="1550064354785" duration="801000" />
+      <workItem from="1550480569563" duration="7524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48349000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="48" width="1280" height="738" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1938046" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3126935" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3677522" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3109589" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firebase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1/assets/images/git-studentd-pack.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.firebaserc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/assets/images/task_image_new.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/assets/images/float_left_example.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/assets/images/practical_website_preview.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="14" selection-start-line="14" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1/notes_practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="18" selection-start-column="18" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vuepress/dist/assets/js/app.08c037e7.js" />
+    <entry file="file://$PROJECT_DIR$/week_2/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3888">
+            <caret line="113" selection-start-line="113" selection-end-line="113" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1/practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="864">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_1/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_2/notes_practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="351">
+            <caret line="13" column="1" selection-start-line="1" selection-end-line="13" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/notes_practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="297">
+            <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_3/test_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assessment_support/assessment_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="315" selection-start-line="276" selection-end-line="315" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_4/practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_4/notes_practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="159">
+            <caret line="95" selection-start-line="95" selection-end-line="95" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_4/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="159">
+            <caret line="67" column="79" selection-start-line="67" selection-start-column="79" selection-end-line="67" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="64" column="38" selection-start-line="64" selection-start-column="38" selection-end-line="64" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_5/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="290">
+            <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_5/notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2592">
+            <caret line="72" selection-start-line="72" selection-end-line="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week_5/practical.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
