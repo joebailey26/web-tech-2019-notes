@@ -22,7 +22,7 @@ module.exports = {
             },
 
             {
-                title: 'Week 1 - Workflow and Version Control',
+                title: 'Week 1 - Workflow & Version Control',
                 children: [
                     '/week_1/',
                     '/week_1/notes.md',
@@ -33,7 +33,7 @@ module.exports = {
             },
 
             {
-                title: 'Week 2 - HTML, CSS and Content Ownership',
+                title: 'Week 2 - HTML, CSS & Content Ownership',
                 children:  [
                     '/week_2/',
                     '/week_2/notes.md',
@@ -91,6 +91,17 @@ module.exports = {
                     '/week_7/notes.md',
                     '/week_7/notes_practical.md',
                     '/week_7/practical.md'
+                ]
+
+            },
+
+            {
+                title: 'Week 8 - Introduction SEO & Control Structures',
+                children:  [
+                    '/week_8/',
+                    '/week_8/notes.md',
+                    '/week_8/notes_practical.md',
+                    '/week_8/practical.md'
                 ]
 
             }

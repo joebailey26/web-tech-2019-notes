@@ -106,8 +106,7 @@ Create a new file called `ex2.html` and type in the below code:
 
 Save your file and open up the page in your browser and see what happens. 
 
-
-## Task 3  - Summing Numbers
+## Task 3  - Summing Numbers
 
 This is the main exercise for this week, you're going to be creating a javaScript application that sums 3 numbers together entered by the user. This is going to be a good opportunity to practice the key points we've covered in this weeks session
 
